@@ -1,0 +1,22 @@
+
+body{
+  font-family:'Protest Riot',sans-serif;
+}
+.loading {
+    align-items: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+  p{
+    display: block;
+    font-size: 30px;
+    color: 1E1E1E;
+  }
+  h2{
+    font-size: 50px;
+    color: #81b691;
+    font-style: bold;
+  }
+  
